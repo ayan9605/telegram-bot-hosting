@@ -1,0 +1,14 @@
+# System files
+.DS_Store
+*.log
+*.swp
+*.swo
+
+# Environment files
+.env
+*.env
+
+# Local development
+.idea/
+.vscode/
+*.code-workspace
